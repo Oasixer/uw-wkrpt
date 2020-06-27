@@ -1,0 +1,14 @@
+
+Executive Summary:
+
+Introduction:
+
+Social media has been taking a larger and larger role in our lives, with 3.81 billion people - about half the world's population -
+being active on some form of social media \ref{}. With social media becoming increasingly
+important, there are many reasons (besides just advertising) why it may be beneficial to analyze this data.
+
+Objective:
+The objective is to scrape tweets as regularly as possible so that users can see their tweets as well as the tweets directed at them through the backr dashboard.
+
+Problem Statement:
+
